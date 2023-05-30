@@ -1,6 +1,5 @@
-### Oii 
+## Oi, eu sou Kayllane! 🖐
 
-👩‍💻 Estudando
+:computer: Desenvolvedora Front-End.
 
-
-</div>
+:books: Tentando aprender algumas coisas.
