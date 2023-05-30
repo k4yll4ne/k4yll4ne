@@ -1,5 +1,5 @@
 ## Oi, eu sou Kayllane! 🖐
 
-:computer: Front-End.
+:computer: Estudando Front-End.
 
-:books: Tentando aprender algumas coisas.
+:books: Apenas por diversão.
